@@ -1,0 +1,104 @@
+
+/* Estilo geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0e8;
+    color: #333;
+    margin: 0;
+}
+/* Estilo utilizado no header */
+header{
+    background-color: #5c1627;
+    text-align: center;
+    padding: 20px;
+}
+/* Estilo utilizado nos links iniciais */
+nav a {
+    display: inline; 
+    margin: 10px;
+    color: white;
+    display: inline-block;
+   
+}
+/* Estilo utilizado no footer */
+footer {
+    background-color: #5c1627;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+/* Estilo utilizado para criar um espaço que tem uma imagem */
+#areai {
+  margin: 0 auto;
+  background-color: #ffffff;
+  width: 1000px;
+  height: 515px;
+  padding: 15px;
+  box-sizing: border-box
+}
+/* Estilo utilizado na imagem */
+#imga{
+    width: 400px;
+    height: 300px;
+}
+
+/* Estilo utilizado nas areas gerais onde só contém texto */
+.area {
+width: 1000px;
+margin:auto;
+background-color: #ffffff;
+height: 215px;
+box-sizing: border-box;
+padding: 30px;
+}
+/* Estilo para mudar o tamanho e fonte dos paragrafos */
+section p {
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* Estilo utilizado para criar um espaço que tem uma tabela */
+#areat {
+    width: 1000px;
+margin:auto;
+background-color: #ffffff;
+height: 215px;
+box-sizing: border-box;
+padding: 30px;
+}
+/* Estilo utilizado para o cabeçalho da tabela */
+th {
+    background-color: #5c1627;
+    color: white;
+}
+/* Estilo utilizado para criar um espaço que tem um video*/
+#areav {
+width: 1000px;
+margin:auto;
+background-color: #ffffff;
+height: 500px;
+box-sizing: border-box;
+padding: 30px;
+/* Estilo utilizado na lista não ordenada no inicio */
+}
+/* Estilo utilizado para comentario do leitor */
+input {
+    width: 500px;
+}
+/* /* Estilo utilizado para criar um espaço que tem um formulario*/ 
+#areaf {
+  width: 1000px;
+  margin: auto;
+  background-color: #ffffff;
+  min-height: 400px; /* Expande se o conteúdo for maior que 400px */
+  box-sizing: border-box;
+  padding: 30px;
+}
+/* Estilo utilizado para criar um espaço que tem uma lista*/
+#areal {
+width: 1000px;
+margin:auto;
+background-color: #ffffff;
+height: 320px;
+box-sizing: border-box;
+padding: 30px;
+}
