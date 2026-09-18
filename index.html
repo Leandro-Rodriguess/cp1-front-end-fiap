@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Principal</title>
+</head>
+<body>
+
+    <!-- Cabeçalho com navegação para outras paginas -->
+    <header>
+        <h1>Vinheria Agnello</h1>
+
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="src/pages/historia.html">Nossa História</a></li>
+                <li><a href="src/pages/vinhos.html">Vinhos</a></li>
+                <li><a href="src/pages/harmonizacao.html">Harmonização</a></li>
+                <li><a href="src/pages/contato.html">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Conteúdo principal da pagina  -->
+    <main>
+
+        <!-- Seção principal -->
+        <section id="inicio">
+
+            <h2>Descubra o vinho ideal para cada momento</h2>
+
+            <p>
+                A Vinheria Agnello atua há mais de 15 anos em São Paulo,
+                oferecendo uma grande variedade de rótulos nacionais e
+                internacionais.
+            </p>
+
+            <img src="./img/Vinho_cp1.jpg"
+                alt="Taças de vinho sobre uma mesa">
+
+        </section>
+
+
+        <!-- Sobre a Vinheria Agello -->
+        <section class="sobre">
+
+            <h2>Sobre a Vinheria Agnello</h2>
+
+            <p>
+                A Vinheria Agnello é uma empresa familiar dirigida por
+                Giulio e sua filha Bianca. A empresa possui uma loja física
+                e conta com uma equipe especializada no mundo dos vinhos.
+            </p>
+
+            <p>
+                Um dos principais diferenciais da Vinheria é o atendimento
+                personalizado. Os vendedores ajudam os clientes a escolher
+                seus vinhos de acordo com a uva, região, vinícola, ocasião
+                e tipo de refeição.
+            </p>
+
+        </section>
+
+
+        <!-- Diferenciais da Vinheria Angello -->
+        <section id="diferenciais">
+
+            <h2>Por que escolher a Agnello?</h2>
+
+            <p>
+                Nosso objetivo é ajudar cada cliente a encontrar um vinho
+                adequado ao seu gosto e à ocasião.
+            </p>
+
+            <ul>
+                <li>Variedade de vinhos nacionais e internacionais</li>
+                <li>Atendimento personalizado</li>
+                <li>Conhecimento sobre diferentes tipos de uvas</li>
+                <li>Dicas de harmonização</li>
+                <li>Cuidados especiais com o armazenamento</li>
+            </ul>
+
+        </section>
+
+
+        <!-- Tipos de vinho usando listas -->
+        <section>
+
+            <h2>Conheça alguns tipos de vinho</h2>
+
+            <table border="1">
+               
+                <!-- cabecalho da lista -->
+                <thead>
+                    <tr>
+                        <th>Tipo</th>
+                        <th>Características</th>
+                        <th>Harmonização</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    <tr>
+                        <td>Vinho Tinto</td>
+                        <td>Possui sabores e aromas variados</td>
+                        <td>Carnes e massas</td>
+                    </tr>
+
+                    <tr>
+                        <td>Vinho Branco</td>
+                        <td>Geralmente mais leve e refrescante</td>
+                        <td>Peixes e frutos do mar</td>
+                    </tr>
+
+                    <tr>
+                        <td>Vinho Rosé</td>
+                        <td>Leve e frutado</td>
+                        <td>Saladas e aperitivos</td>
+                    </tr>
+
+                    <tr>
+                        <td>Espumante</td>
+                        <td>Possui gás e é bastante refrescante</td>
+                        <td>Comemorações e aperitivos</td>
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </section>
+
+
+        <!-- Vídeo -->
+        <section>
+
+            <h2>Conheça mais sobre o mundo dos vinhos</h2>
+
+            <p>
+                Aprenda um pouco mais sobre vinhos e descubra novas
+                possibilidades de sabores e harmonizações.
+            </p>
+
+           <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/9CkhumPu-oI"
+                title="Vídeo do YouTube"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+            </iframe>
+
+        </section>
+
+
+        <!-- Link externo da pagina principal -->
+        <section>
+
+            <h2>Quer aprender mais?</h2>
+
+            <p>
+                Você também pode consultar informações sobre vinhos
+                em sites especializados.
+            </p>
+
+            <a href="https://www.winespectator.com/" target="_blank"> Acesse o Wine Spectator</a>
+
+        </section>
+
+
+        <!-- Formulário -->
+        <section id="contato">
+
+            <h2>Entre em contato</h2>
+
+            <p>
+                Envie uma mensagem para a Vinheria Agnello.
+            </p>
+
+            <form>
+
+                <label for="nome">Nome:</label>
+                <br>
+
+                <input type="text" id="nome" name="nome" placeholder="Digite seu nome" required>
+
+                <br><br>
+
+                <label for="email">E-mail:</label>
+                <br>
+
+                <input type="email" id="email" name="email" placeholder="Digite seu e-mail" required>
+
+                <br><br>
+
+                <label for="mensagem">Mensagem:</label>
+                <br>
+
+                <textarea id="mensagem" name="mensagem" placeholder="Digite sua desabafo"></textarea>
+
+                <br><br>
+
+                <!-- usando botao -->
+
+                <button type="submit">
+                    Enviar mensagem
+                </button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <hr>
+
+    <!-- footer site  -->
+    <footer>
+
+        <p>
+            &copy; 2026 Vinheria Agnello - Pagina desenvolvida por Leandro Rodrigue Barbosa - CP1 projeto acadêmico para a FIAP.
+        </p>
+
+        <!-- volta para pagina inicial -->
+
+        <p>
+            <a href="#inicio">Voltar ao início</a>
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
