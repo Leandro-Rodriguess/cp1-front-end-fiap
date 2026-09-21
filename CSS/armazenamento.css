@@ -47,6 +47,11 @@ hr {
 }
 
 /* color h2 */
+
+.titulo{
+    color: white;
+}
+
 h2 {
     color: #5c1627;
 }
