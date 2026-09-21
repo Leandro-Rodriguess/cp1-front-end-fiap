@@ -26,34 +26,6 @@ Armazenamento
 
 Uvas
 
-Estrutura
-vinheria-agnello/
-├── index.html
-│
-├── pages/
-│   ├── historia.html
-│   ├── vinhos.html
-│   ├── armazenamento.html
-│   └── uvas.html
-│
-├── css/
-│   ├── armazenamento.css
-│   ├── uvas.css
-│   ├── style.css
-│   ├── principal.css
-│   └── fonte.css
-│
-├── img/
-│   ├── garrafasdevinho/
-│   ├── img/
-│   ├── uva/
-│   ├── vinho/
-│   ├── vinhosespumante/
-│   ├── vinhos_prateleira/
-│   └── vinhoscp1/
-│
-└── README.md
-
 Objetivo
 
 Este projeto foi desenvolvido no 1º semestre da FIAP, com o objetivo de praticar a criação e estilização de páginas web utilizando HTML e CSS.
