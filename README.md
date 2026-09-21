@@ -28,7 +28,7 @@ O site apresenta a Vinheria Agnello e informações sobre o mundo dos vinhos.
 
 Este projeto foi desenvolvido no **1º semestre da FIAP**, como parte do **CP1**, colocando em prática os conhecimentos apresentados durante as aulas.
 
-## Autor
+## Autores
 
 **Leandro Rodrigue Barbosa**
 
