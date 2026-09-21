@@ -31,9 +31,13 @@ Este projeto foi desenvolvido no **1º semestre da FIAP**, como parte do **CP1**
 ## Autor
 
 **Leandro Rodrigue Barbosa**
+
 **Eduardo Miranda Mororo**
+
 **Lucca Neufeld Vecchiatti**
+
 **Victor krause Esteves**
+
 **Henrrique Nascimento**
 
 
