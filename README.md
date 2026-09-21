@@ -21,10 +21,8 @@ O site apresenta a Vinheria Agnello e informações sobre o mundo dos vinhos.
 
 ## Links
 
-- [Repositório no GitHub] https://github.com/Leandro-Rodriguess/cp1-front-end-fiap.git
-
+- [Repositório no GitHub]  https://github.com/Leandro-Rodriguess/cp1-front-end-fiap.git
 - [Wine Spectator](https://www.winespectator.com/)
-
 
 ## Objetivo acadêmico
 
@@ -33,5 +31,10 @@ Este projeto foi desenvolvido no **1º semestre da FIAP**, como parte do **CP1**
 ## Autor
 
 **Leandro Rodrigue Barbosa**
+**Eduardo Miranda Mororo**
+**Lucca Neufeld Vecchiatti**
+**Victor krause Esteves**
+**Henrrique Nascimento**
+
 
 FIAP — CP1 | 2026
