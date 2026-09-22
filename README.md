@@ -6,11 +6,11 @@ Projeto de um site institucional para a **Vinheria Agnello**, desenvolvido como 
 
 A Vinharia Agnello é uma empresa tradicional do ramo de vinhos, com mais de 15 anos de atuação e uma loja física em São Paulo. A empresa se destaca pelo atendimento personalizado, oferecendo aos clientes orientações sobre diferentes tipos de vinhos, uvas, regiões produtoras e harmonizações. Com a evolução do mercado e o aumento das compras pela internet, a Vinharia Agnello passou a considerar a criação de um canal de vendas online. O principal desafio do caso é levar para o ambiente digital a experiência e o atendimento personalizado que já fazem parte da identidade da empresa.
 
-## Sobre o projeto
+# Sobre o projeto
 
 O site apresenta a Vinheria Agnello e informações sobre o mundo dos vinhos.
 
-## Estrutura do projeto
+# Estrutura do projeto
 
 O projeto da Vinharia Agnello é composto por cinco páginas principais, desenvolvidas em HTML e estilizadas com CSS. Cada página possui uma função específica para apresentar a empresa, seus produtos e informações relacionadas ao universo dos vinhos.
 
@@ -34,7 +34,7 @@ Apresenta informações sobre diferentes variedades de uvas utilizadas na produ�
 
 Apresenta informações sobre os cuidados necessários para armazenar, conservar e transportar vinhos. A página explica como a Vinharia Agnello realiza o armazenamento de seus produtos e também fornece orientações para que os consumidores possam conservar seus vinhos em casa. Além disso, possui uma tabela com temperaturas e cuidados recomendados para diferentes tipos de vinho, uma imagem do estoque e um vídeo explicativo.
 
-## Organização dos arquivos
+# Organização dos arquivos
 
 O projeto está organizado da seguinte forma:
 
@@ -54,18 +54,10 @@ CSS/ — contém os arquivos de estilização das páginas.
 
 img/ — contém as imagens utilizadas no projeto.
 
-## Tecnologias utilizadas
+# Tecnologias utilizadas
 
 - HTML5
 - CSS3
-
-## Conteúdo do site
-
-- Início
-- Nossa História
-- Vinhos
-- Armazenamento
-- Uvas
 
 ## Links
 
